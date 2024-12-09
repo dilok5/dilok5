@@ -14,21 +14,6 @@ Agora, estou desenvolvendo projetos práticos e me aprofundando em novas tecnolo
 
 ---
 
-## 💡 **Projetos em Destaque**
-
-### **Sistema de Gestão de Estoque**  
-Um sistema completo para gerenciamento de estoque de uma empresa. Funcionalidades incluem:
-- Cadastro de produtos
-- Controle de entrada e saída
-- Relatórios gerenciais  
-**Tecnologias:** Python, Flask, MySQL
-
-### **Captura de Temperatura e Umidade do Ar com Tkinter**  
-Um projeto simples para captar dados climáticos de São Paulo e salvar essas informações em uma planilha organizada.  
-**Tecnologias:** Python, Tkinter
-
----
-
 ## 🚀 **O que estou aprendendo atualmente**
 - Desenvolvimento Web com **Flask** e **Django**  
 - Fundamentos de **Data Science** e **Machine Learning**  
