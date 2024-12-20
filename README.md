@@ -18,7 +18,7 @@ Agora, estou desenvolvendo projetos práticos e me aprofundando em novas tecnolo
 - Desenvolvimento Web com **Flask** e **Django**  
 - Fundamentos de **Data Science** e **Machine Learning**  
 - Integração de **APIs RESTful**
-
+- Programação orientada a objeto **Java**
 
 ---
 
