@@ -19,19 +19,12 @@ Agora, estou desenvolvendo projetos práticos e me aprofundando em novas tecnolo
 - Fundamentos de **Data Science** e **Machine Learning**  
 - Integração de **APIs RESTful**
 
----
-
-## 🌱 **Próximos Passos**
-- Automação de processos com **Selenium**  
-- Contribuições para **Projetos Open Source**  
-- Expansão de meu networking na **comunidade de tecnologia**
 
 ---
 
 ## 🎸 **Curiosidades sobre mim**  
 - **Música:** Apaixonado por **guitarra** e **videogames** 🎮  
-- Fui **professor de música** por alguns anos.  
-- Amo explorar os mundos dos games e da música, sempre em busca de inspiração para novos projetos.
+- Fui **professor de música** por alguns anos. 
 
 ---
 
