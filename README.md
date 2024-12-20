@@ -14,11 +14,12 @@ Agora, estou desenvolvendo projetos práticos e me aprofundando em novas tecnolo
 
 ---
 
-## 🚀 **O que estou aprendendo atualmente**
-- Desenvolvimento Web com **Flask** e **Django**  
+## 💼 **Minhas Habilidades**
+- Desenvolvimento Web com **Flask**, **Django**, **JavaScript** e **React**  
 - Fundamentos de **Data Science** e **Machine Learning**  
-- Integração de **APIs RESTful**
-- Programação orientada a objeto com **Java**
+- Integração de **APIs RESTful**  
+- Programação orientada a objeto com **Java**  
+- Conhecimento em bancos de dados **MySQL** e **MongoDB**
 
 ---
 
