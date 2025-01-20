@@ -24,7 +24,7 @@ Agora, estou desenvolvendo projetos práticos e me aprofundando em novas tecnolo
 ---
 
 ## 🎸 **Curiosidades sobre mim**  
-- **Música:** Apaixonado por **guitarra** e **videogames** 🎮  
+- Apaixonado por **guitarra** e **videogames** 🎮  
 - Fui **professor de música** por alguns anos. 
 
 ---
