@@ -26,6 +26,25 @@ Agora, estou desenvolvendo projetos práticos e me aprofundando em novas tecnolo
 ## 🎸 **Curiosidades sobre mim**  
 - Apaixonado por **guitarra** e **videogames** 🎮  
 - Fui **professor de música** por alguns anos. 
+---
+
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phyton/phyton-original.svg" height="40" alt="phyton logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  </div>
+
+###
+
 
 ---
 
