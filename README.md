@@ -21,14 +21,6 @@ Agora, estou desenvolvendo projetos práticos e me aprofundando em novas tecnolo
 - Programação orientada a objeto com **Java**  
 - Conhecimento em bancos de dados **MySQL** e **MongoDB**
 
----
-
-## 🎸 **Curiosidades sobre mim**  
-- Apaixonado por **guitarra** e **videogames** 🎮  
-- Fui **professor de música** por alguns anos. 
----
-
-
 ###
 
 <div align="left">
@@ -52,7 +44,12 @@ Agora, estou desenvolvendo projetos práticos e me aprofundando em novas tecnolo
 
 ###
 
+---
 
+## 🎸 **Curiosidades sobre mim**  
+- Apaixonado por **guitarra** e **videogames** 🎮  
+- Fui **professor de música** por alguns anos.
+  
 ---
 
 ## 📫 **Vamos nos conectar?**
