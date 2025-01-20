@@ -45,7 +45,6 @@ Agora, estou desenvolvendo projetos práticos e me aprofundando em novas tecnolo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img widht="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img widht="14" />
 </div>
 
 
