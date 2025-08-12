@@ -20,6 +20,7 @@ Agora, estou desenvolvendo projetos práticos e me aprofundando em novas tecnolo
 - Integração de **APIs RESTful**  
 - Programação orientada a objeto com **Java**  
 - Conhecimento em bancos de dados **MySQL** e **MongoDB**
+- Desenvolvimento Mobile com **React-Native**
 
 ###
 
