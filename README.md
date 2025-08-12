@@ -15,7 +15,7 @@ Agora, estou desenvolvendo projetos práticos e me aprofundando em novas tecnolo
 ---
 
 ## 💼 **Minhas Habilidades**
-- Desenvolvimento Web com **Flask**, **Django**, **JavaScript** e **React**  
+- Desenvolvimento Web(Full Stack) com **Flask**, **Django**, **JavaScript** e **React**  
 - Fundamentos de **Data Science** e **Machine Learning**  
 - Integração de **APIs RESTful**  
 - Programação orientada a objeto com **Java**  
