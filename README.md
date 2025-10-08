@@ -15,14 +15,31 @@ Agora, estou desenvolvendo projetos práticos e me aprofundando em novas tecnolo
 ---
 
 ## 💼 **Minhas Habilidades**
-- Desenvolvimento Web(Full Stack) com **Flask**, **Django**, **JavaScript** e **React**  
-- Fundamentos de **Data Science** e **Machine Learning**  
-- Integração de **APIs RESTful**  
-- Programação orientada a objeto com **Java**  
-- Conhecimento em bancos de dados **MySQL** e **MongoDB**
-- Desenvolvimento Mobile com **React-Native**
 
-###
+### 🌐 **Desenvolvimento Web (Full Stack)**
+- Criação de aplicações completas com **Flask**, **React**, **Node.js** e **JavaScript**
+- Integração e consumo de **APIs RESTful**
+- Estruturação e versionamento de projetos seguindo boas práticas
+
+### ⚙️ **Back-end**
+- Desenvolvimento de APIs com **Flask**, **Node.js (Express)** e **Java (Spring Boot)**
+- Programação orientada a objetos (**POO**)
+- Manipulação de dados e lógica de negócio
+- Autenticação, autorização e controle de acesso
+- Integração com bancos de dados **MySQL** e **MongoDB**
+
+### 🎨 **Front-end**
+- Criação de interfaces modernas com **React** e **JavaScript (ES6+)**
+- Estilização responsiva com **Bulma**, **CSS3** e **HTML5**
+- Consumo de APIs e gerenciamento de estado
+
+### 📱 **Desenvolvimento Mobile**
+- Aplicações híbridas com **React Native**
+
+### 📊 **Data Science e Machine Learning**
+- Fundamentos de análise de dados e aprendizado de máquina
+- Utilização de bibliotecas como **Pandas**, **NumPy** e **Scikit-learn**
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
