@@ -22,7 +22,7 @@ Agora, estou desenvolvendo projetos práticos e me aprofundando em novas tecnolo
 - Estruturação e versionamento de projetos seguindo boas práticas
 
 ### ⚙️ **Back-end**
-- Desenvolvimento de APIs com **Flask**, **Node.js (Express)** e **Java (Spring Boot)**
+- Desenvolvimento de APIs com **Node.js (Express)** e **Java (Spring Boot)**
 - Programação orientada a objetos (**POO**)
 - Manipulação de dados e lógica de negócio
 - Autenticação, autorização e controle de acesso
@@ -30,7 +30,7 @@ Agora, estou desenvolvendo projetos práticos e me aprofundando em novas tecnolo
 
 ### 🎨 **Front-end**
 - Criação de interfaces modernas com **React** e **JavaScript (ES6+)**
-- Estilização responsiva com **Bulma**, **CSS3** e **HTML5**
+- Estilização responsiva com, **CSS3** e **HTML5**
 - Consumo de APIs e gerenciamento de estado
 
 ### 📱 **Desenvolvimento Mobile**
@@ -38,7 +38,7 @@ Agora, estou desenvolvendo projetos práticos e me aprofundando em novas tecnolo
 
 ### 📊 **Data Science e Machine Learning**
 - Fundamentos de análise de dados e aprendizado de máquina
-- Utilização de bibliotecas como **Pandas**, **NumPy** e **Scikit-learn**
+- Utilização de bibliotecas como **Pandas** e **NumPy**
 
 
 <div align="left">
