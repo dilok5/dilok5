@@ -2,7 +2,7 @@
 
 ## **Quem sou eu?**  
 **Carlos Di Loco**  
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+🎓 Formado em **Análise e Desenvolvimento de Sistemas**  
 🚛 **10 anos de experiência** em **Logística**, especializado em **Inventário e Conferência**  
 💻 **Transição para a área de Tecnologia**
 
