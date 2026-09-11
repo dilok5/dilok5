@@ -43,10 +43,6 @@ Atuo na área de Tecnologia como Suporte N3, unindo a formação em ADS ao conhe
 ### 📱 **Desenvolvimento Mobile**
 - Aplicações híbridas com **React Native**
 
-### 📊 **Data Science e Machine Learning**
-- Fundamentos de análise de dados e aprendizado de máquina
-- Utilização de bibliotecas como **Pandas** e **NumPy**
-
 ---
 
 <div align="left">
